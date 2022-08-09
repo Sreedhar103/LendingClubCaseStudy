@@ -20,9 +20,9 @@
 
 
 ## Technologies Used
--Python 3.6
--Pandas 1.1.5
--Matplotlib 3.2.2
+- Python 3.6
+- Pandas 1.1.5
+- Matplotlib 3.2.2
 
 ## Contact
 Created by [@Sreedhar103]
